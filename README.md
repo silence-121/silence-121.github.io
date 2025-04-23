@@ -70,7 +70,7 @@
 </head>
 <body>
     <header>
-        <h1>Humphrey Benedict B. Alpuerto</h1>
+      
         <p>Welcome to my portfolio!</p>
     </header>
     <nav>
@@ -81,7 +81,7 @@
     </nav>
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I'm Rafael Vince Dee P. Tuquib, a Computer Engineering specializing in University Of Bohol. I am passionate about Web Design. I live in Cabulijan, Tubigon, Bohol</p>
+        <p>Hello! I am Humphrey Benedict B. Alpuerto, a Computer Engineering specializing in University Of Bohol. I am passionate about coding. I live in Poblacion,Catigbian, Bohol</p>
     </section>
     <section id="skills">
         <h2>Skills</h2>
@@ -109,14 +109,13 @@
         <h2>Contact</h2>
         <p>Feel free to reach out to me via the following:</p>
         <ul>
-            <li>Email: <a href="rafaeltuquib14332@gmail.com">rafaeltuquib14332@gmail.com</a></li>
-            <li>Phone: 09633824783</li>
-            <li>LinkedIn: <a href="https://www.facebook.com/rafaeltuquib" target="_blank">Rafael Tuquib</a></li>
-            <li>GitHub: <a href="https://github.com/Rafael-Tuquib" target="_blank">Rafael-Tuquib</a></li>
+            <li>Email: <a href="humphrex543216@gmail.com">humphrex543216@gmail.com</a></li>
+            <li>Phone: 09814916949</li>
+         
         </ul>
     </section>
     <footer>
-        <p>&copy; 2025 Tuquib. All rights reserved.</p>
+        <p>&copy; 2025 Alpuerto. All rights reserved.</p>
     </footer>
 </body>
 </html>
