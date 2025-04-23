@@ -70,7 +70,7 @@
 </head>
 <body>
     <header>
-      
+        <h3>Humphrey Benedict B. Alpuerto</h3>
         <p>Welcome to my portfolio!</p>
     </header>
     <nav>
