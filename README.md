@@ -70,7 +70,7 @@
 </head>
 <body>
     <header>
-        <h1>Rafael Vince Dee P. Tuquib</h1>
+        <h1>Humphrey Benedict B. Alpuerto</h1>
         <p>Welcome to my portfolio!</p>
     </header>
     <nav>
