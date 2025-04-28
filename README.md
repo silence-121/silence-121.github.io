@@ -70,6 +70,7 @@
 </head>
 <body>
     <header>
+         <img src="images [861a89c]"(https://github.com/silence-121/silence-121.github.io/blob/main/asa.jpg)>
         <h3>Humphrey Benedict B. Alpuerto</h3>
         <p>Welcome to my portfolio!</p>
     </header>
