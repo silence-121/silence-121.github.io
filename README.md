@@ -82,7 +82,7 @@
     </nav>
     <section id="about">
         <h2>About Me</h2>
-        <p>Hello! I am Humphrey Benedict B. Alpuerto, a Computer Engineering specializing in University Of Bohol. I am passionate about coding. I live in Poblacion,Catigbian, Bohol</p>
+        <p>Hello! I am Humphrey Benedict B. Alpuerto, a Computer Engineering specializing in University of Bohol. I am passionate about coding. I live in Poblacion,Catigbian, Bohol</p>
     </section>
     <section id="skills">
         <h2>Skills</h2>
